@@ -1,0 +1,14 @@
+ a=12
+ if a<20:
+...  print('a is smaller than 20')
+...  print('if logic is satisfied')
+...
+
+'''
+Expected output:
+a is smaller than 20
+if logic is satisfied
+
+Actual output:
+a is smaller than 20
+if logic is satisfied
