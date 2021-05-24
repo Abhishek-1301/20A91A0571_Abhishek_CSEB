@@ -18,7 +18,9 @@ elif n<=5000:
     print('Dear customer,your total bill payable is ',n-d)
 else n<1000:
     print('Sorry!your total bill payable is ',n)
-
-
-    
-   
+'''
+Output:
+Enter total amount:1500
+Your total bill amount is: 1500
+Your discount is  150.0
+Dear customer,your total bill payable is  1350.0
