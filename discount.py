@@ -24,3 +24,4 @@ Output:
       Your total bill amount is: 1500
       Your discount is  150.0
       Dear customer,your total bill payable is  1350.0
+'''
