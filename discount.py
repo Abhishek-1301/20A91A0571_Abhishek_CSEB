@@ -16,7 +16,7 @@ elif n<=5000:
     d=0.4*n
     print('Your discount is ',d)
     print('Dear customer,your total bill payable is ',n-d)
-else n<1000:
+else:
     print('Sorry!your total bill payable is ',n)
 '''
 Output:
