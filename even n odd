@@ -1,0 +1,21 @@
+#To check whether the number is even or not
+
+ q=int(input('enter number to be checked '))
+
+if (q%2==0) :
+    print(q,'is a even number')
+else :
+    print(q, 'is not a even number')
+    print('it is a odd number')
+
+# 'if' statement is satisfied :
+#output :
+enter number to be checked 24
+24 is a even number
+
+
+# 'else' condition is satisfied
+#output :
+enter number to be checked 23
+23 is not a even number
+it is a odd number
